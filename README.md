@@ -63,7 +63,3 @@ Caso novas suposições sejam feitas durante análises futuras, elas devem ser a
 - Semente aleatória (`random.seed(42)`) é definida no gerador de dados para permitir reprodutibilidade.
 - Os scripts não dependem de credenciais, API externas ou arquivos fora do repositório.
 
-## Autor
-
-- **Lucas Lima**
-- Contato: _adicione aqui seu e-mail ou LinkedIn, se desejar_
